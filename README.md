@@ -3,10 +3,8 @@
 1. 本 Repo 仅起到信息汇总及共享作用，为用户鉴别捐赠信息提供便利，但需用户在捐款前自行核实，判断捐赠信息。
 2. [武汉海关关于用于新型冠状病毒肺炎疫情防控和治疗的进口捐赠物资办理通关手续的公告](http://www.customs.gov.cn/wuhan_customs/506378/506379/2851956/index.html)
 
-## 名单列表
+## 捐赠信息列表
 
-捐赠信息列表
----
 |机构/个人名称|国家/地区|接受捐款|已公开资金流向|接受捐物|已有确认接受凭证|更多信息|
 |----|----|----|----|----|----|----|
 |武大纽约校友会|美国|GoFundMe|否|否|否|[GoFundMe](https://www.gofundme.com/f/help-wuhan-fight-through-coronavirus?from=timeline)|
