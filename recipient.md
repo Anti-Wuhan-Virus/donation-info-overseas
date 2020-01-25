@@ -23,3 +23,4 @@
 |孝感|否|是|[图片](img/xg.jpg)|
 |应城|否|是|[图片](img/yc.jpg)|
 |仙桃|否|是|[图片](img/xt.jpg)|
+|前线记者|否|是|[图片](img/journalist.webp)|
