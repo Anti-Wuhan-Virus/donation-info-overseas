@@ -10,7 +10,7 @@
 
 |机构/个人名称|国家/地区|接受捐款|已公开资金流向|接受捐物|已有确认接受凭证|更多信息|
 |----|----|----|----|----|----|----|
-|武大纽约校友会|美国|GoFundMe|否|否|否|[GoFundMe](https://www.gofundme.com/f/help-wuhan-fight-through-coronavirus?from=timeline)|
+|武大纽约校友会|美国|GoFundMe|[公众号链接](https://mp.weixin.qq.com/s?__biz=MzA5MDk3Njk2OA==&mid=2649469379&idx=1&sn=40bfa90c19a267a5b92c7c3de6ffd63f&chksm=881c7664bf6bff7202d70939f437fdb5f6d598ab30fe157d4c1147293c7ccb25d417fc0d394d&mpshare=1&scene=1&srcid=&sharer_sharetime=1579928522941&sharer_shareid=c282b90b765c4d4e8683eca427a40b39&exportkey=A%2BR%2BfkAbwNAIOzbcHXQFl9Q%3D&pass_ticket=n9CznTPe9B50HPQNOY8BNU33C%2FkqyOkx8qUeWQBsLUY%3D#rd)|需事先联系|否|[GoFundMe](https://www.gofundme.com/f/help-wuhan-fight-through-coronavirus?from=timeline)|
 |华人众筹项目|美国|不接收|-|暂停接收个人网购|[链接](https://www.jianshu.com/p/44279607f25c)|[链接(GDocs)](https://docs.google.com/document/d/10ajFNh3_sTtyeWdgYP9HHnLH97kkH4w63O5l6Ip7sq0/mobilebasic?from=groupmessage&isappinstalled=0)|
 |UW-Madison CUSA|美国|Venmo|否|否|否|[公众号链接](https://mp.weixin.qq.com/s?__biz=MjM5NjE3NTg4MQ==&mid=2649157328&idx=1&sn=9944f7cb0dcade00a525cae94c72503d&chksm=beff07b689888ea0d87171be6496e96ae93f1d5aeae7de639dac3d867bc5ae38855a15680222&mpshare=1&scene=1&srcid=&sharer_sharetime=1579914306615&sharer_shareid=c282b90b765c4d4e8683eca427a40b39&exportkey=AxxcthDE%2FafVp%2BcA1v3Lnp0%3D&pass_ticket=n9CznTPe9B50HPQNOY8BNU33C%2FkqyOkx8qUeWQBsLUY%3D#rd)|
 
